@@ -31,6 +31,9 @@ PMS helps you to onboard clients, employees, manage projects, tasks, employee wo
 **Backend:**  
 -  Node.js / RedisMQ / Redis / Express.js
 
+**Cloud:** 
+- AWS , AWS Lamble, AWS SES, S3 Bucket
+  
 **Database:**  
 - Mongodb  
 
